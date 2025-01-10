@@ -1,0 +1,4 @@
+C:\Users\Mehdi Kh\source\repos\SOLID principles\SOLID principles\obj\Debug\net8.0\SOLID principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehdi Kh\source\repos\SOLID principles\SOLID principles\obj\Debug\net8.0\SOLID principles.AssemblyInfoInputs.cache
+C:\Users\Mehdi Kh\source\repos\SOLID principles\SOLID principles\obj\Debug\net8.0\SOLID principles.AssemblyInfo.cs
+C:\Users\Mehdi Kh\source\repos\SOLID principles\SOLID principles\obj\Debug\net8.0\SOLID principles.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\Online store with discounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\Online store with discounts.AssemblyInfoInputs.cache
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\Online store with discounts.AssemblyInfo.cs
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\Online store with discounts.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\bin\Debug\net8.0\Online store with discounts.exe
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\bin\Debug\net8.0\Online store with discounts.deps.json
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\bin\Debug\net8.0\Online store with discounts.runtimeconfig.json
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\bin\Debug\net8.0\Online store with discounts.dll
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\bin\Debug\net8.0\Online store with discounts.pdb
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\Online store with discounts.dll
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\refint\Online store with discounts.dll
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\Online store with discounts.pdb
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\Online store with discounts.genruntimeconfig.cache
+C:\Users\Mehdi Kh\source\repos\SOLID principles\Online store with discounts\obj\Debug\net8.0\ref\Online store with discounts.dll
